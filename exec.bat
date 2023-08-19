@@ -2,7 +2,7 @@
 set baseBranch="master"
 set commitName="Commit 1"
 
-git config --add --bool push.autoSetupRemote true
+@REM git config --add --bool push.autoSetupRemote true
 git add .
 git commit -m %commitName%
 git push
