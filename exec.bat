@@ -1,5 +1,5 @@
 @echo off
-set baseBranch="staging"
+set baseBranch="master"
 set commitName="Commit 1"
 
 git config --add --bool push.autoSetupRemote true
