@@ -1,5 +1,5 @@
 let mr = {
-  Categories: "श्रेणी1",
+  Categories: "श्रेणी11",
   "Share this event": "हा कार्यक्रम सामायिक करा",
   Language: "इंग्रजी",
   "Show Time Zone": "वेळ क्षेत्र दर्शवा",
